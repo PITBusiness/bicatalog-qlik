@@ -4,7 +4,10 @@ Please visit [PIT Business Website](http://www.pit-business.com) to **discover o
 *PIT Business, the best Qlik Influence Partner in Luxembourg & Belgium.*<br>
 
 # BI Catalog
-
+A **Business Intelligence access point** on top of **multiple BI platforms** (ex: Qlik Sense, IBM Cognos).<br>
+Search for a specific Report, Dashboard, Measure, Dimension, Source, Data Warehouse Table, Operational Source over all your BI platforms.<br>
+Get a list of cards as search results, and quickly see **what's inside your BI objects** before opening it in the corresponding platform.<br>
+Display the **lineage** in a  **dependency graph** from the Operational Source, through the DWH tables, until the BI applications and visualizations.
 
 ## Which challenges does it address?
 
