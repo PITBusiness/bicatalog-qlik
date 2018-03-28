@@ -16,11 +16,11 @@ Users can also display the **lineage** in a  **dependency graph** from the Opera
 
 **Business Users**
  - Get a simple Smart Search over any content that we can load in a Qlik Sense application
- - In BI Context: Business Users don‘t have an overview over the content available within their entire BI environment and the given functionality
+ - In BI context: Business Users don‘t have an overview over the content available within their entire BI environment and the given functionality
 
 **BICC/IT**
  - Offer a Smart Search interface that relies on the power of Qlik in back-end, without having to set a dedicated database environment
- - In BI Context: BICC is often contacted by Business Users to guide them to existing apps, or by IT to get the usage of a source
+ - In BI context: BICC is often contacted by Business Users to guide them to existing apps, or by IT to get the usage of a source
 
 ## Versions
 
